@@ -1,3 +1,8 @@
+# files
+.DS_Store
+*.Rmd
+*.zip
+
 # History files
 .Rhistory
 .Rapp.history
